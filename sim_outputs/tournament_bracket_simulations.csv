@@ -1,0 +1,13 @@
+tournament,top_players
+Adelaide,"[('Carlos Alcaraz', np.int64(515)), ('Casper Ruud', np.int64(437)), ('Grigor Dimitrov', np.int64(361))]"
+Davis Cup QLS R1: UKR vs USA,"[('Casper Ruud', np.int64(556)), ('Carlos Alcaraz', np.int64(546)), ('Holger Rune', np.int64(409))]"
+Australian Open,"[('Casper Ruud', np.int64(609)), ('Carlos Alcaraz', np.int64(549)), ('Holger Rune', np.int64(368))]"
+Brisbane,"[('Casper Ruud', np.int64(620)), ('Carlos Alcaraz', np.int64(513)), ('Holger Rune', np.int64(417))]"
+Auckland,"[('Casper Ruud', np.int64(597)), ('Carlos Alcaraz', np.int64(560)), ('Holger Rune', np.int64(396))]"
+Davis Cup QLS R1: SRB vs SVK,"[('Casper Ruud', np.int64(580)), ('Carlos Alcaraz', np.int64(526)), ('Holger Rune', np.int64(400))]"
+Davis Cup WG1 PO: COL vs LUX,"[('Carlos Alcaraz', np.int64(576)), ('Casper Ruud', np.int64(556)), ('Holger Rune', np.int64(408))]"
+United Cup,"[('Alexander Zverev', np.int64(576)), ('Carlos Alcaraz', np.int64(572)), ('Holger Rune', np.int64(348))]"
+Hong Kong,"[('Carlos Alcaraz', np.int64(583)), ('Alexander Zverev', np.int64(566)), ('Holger Rune', np.int64(335))]"
+Davis Cup QLS R1: SWE vs BRA,"[('Casper Ruud', np.int64(553)), ('Carlos Alcaraz', np.int64(540)), ('Holger Rune', np.int64(417))]"
+Montpellier,"[('Carlos Alcaraz', np.int64(478)), ('Casper Ruud', np.int64(452)), ('Grigor Dimitrov', np.int64(391))]"
+Davis Cup QLS R1: HUN vs GER,"[('Carlos Alcaraz', np.int64(503)), ('Casper Ruud', np.int64(444)), ('Grigor Dimitrov', np.int64(430))]"

@@ -1,0 +1,13 @@
+tournament,top3
+Brisbane,"[(np.str_('Casper Ruud'), 1)]"
+Hong Kong,"[(np.str_('Carlos Alcaraz'), 1)]"
+United Cup,"[(np.str_('Casper Ruud'), 1)]"
+Auckland,"[(np.str_('Grigor Dimitrov'), 1)]"
+Adelaide,"[(np.str_('Alexander Zverev'), 1)]"
+Australian Open,"[(np.str_('Grigor Dimitrov'), 1)]"
+Montpellier,"[(np.str_('Holger Rune'), 1)]"
+Davis Cup QLS R1: UKR vs USA,"[(np.str_('Casper Ruud'), 1)]"
+Davis Cup QLS R1: SRB vs SVK,"[(np.str_('Grigor Dimitrov'), 1)]"
+Davis Cup WG1 PO: COL vs LUX,"[(np.str_('Grigor Dimitrov'), 1)]"
+Davis Cup QLS R1: SWE vs BRA,"[(np.str_('Grigor Dimitrov'), 1)]"
+Davis Cup QLS R1: HUN vs GER,"[(np.str_('Grigor Dimitrov'), 1)]"
